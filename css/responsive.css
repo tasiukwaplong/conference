@@ -130,11 +130,12 @@ Version:	1.1
 	background: #fff;
 	margin: 0;
 	padding: 0;
-	height: 200px;
+	height: auto;
 	padding: 70px 0;
 	border-bottom:1px solid #eee;
 }
 .schedule .schedule-inner {
+	height: 200px;
 	transform: none;
 }
 .schedule .single-schedule.last{
