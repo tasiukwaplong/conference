@@ -140,7 +140,7 @@ Version:	1.1
 .schedule .single-schedule.last{
 	margin-top:30px;
 }
-.single-content img{
+.img-fluid{
 	height: 200px;
 }
 .slider .single-slider{
