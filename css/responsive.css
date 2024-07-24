@@ -138,8 +138,10 @@ Version:	1.1
 	transform: none;
 }
 .schedule .single-schedule.last{
-	height: 200px;
 	margin-top:30px;
+}
+.single-content img{
+	height: 200px;
 }
 .slider .single-slider{
 	position:relative;
