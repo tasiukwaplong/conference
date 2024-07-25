@@ -1068,11 +1068,11 @@ body{
 ============================*/
 .portfolio{
 	background:#FDFDFD;
-	height: 350px;
 }
 .portfolio .single-pf{
 	position:relative;
 	border: 1px solid #AE8B31;
+	height: 350px;
 }
 .portfolio .single-pf img{
 	height: 100%;
