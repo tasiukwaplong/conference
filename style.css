@@ -633,7 +633,7 @@ body{
 	z-index:9;
 }
 .schedule .single-schedule {
-	height: 250px;
+	height: 300px;
 	position: relative;
 	text-align: left;
 	z-index:3;
