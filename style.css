@@ -649,7 +649,7 @@ body{
 	position: relative;
 	padding:30px;
 	z-index:2;
-	height: 400px;
+	height: 350px;
 }
 .schedule .single-schedule:before{
 	position: absolute;
@@ -715,7 +715,7 @@ body{
 	position: relative;
 }
 .schedule .single-schedule img {
-	height: 300px;
+	height: 230px;
 }
 .schedule .single-schedule a:before{
 	position:absolute;
