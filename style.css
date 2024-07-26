@@ -715,7 +715,7 @@ body{
 	position: relative;
 }
 .schedule .single-schedule img {
-	height: 230px;
+	height: 200px;
 }
 .schedule .single-schedule a:before{
 	position:absolute;
