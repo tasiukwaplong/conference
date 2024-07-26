@@ -705,17 +705,17 @@ body{
 }
 .schedule .single-schedule p{
 	color:#fff;
-	margin-top:22px;
+	/*margin-top:22px;*/
 }
 .schedule .single-schedule a {
-	color: #fff;
-	margin-top: 25px;
+	color: red;
+	margin-top: 2px;
 	font-weight: 500;
 	display: inline-block;
 	position: relative;
 }
 .schedule .single-schedule img {
-	height: 200px;
+	height: 80%;
 }
 .schedule .single-schedule a:before{
 	position:absolute;
